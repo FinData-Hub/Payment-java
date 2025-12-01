@@ -1,2 +1,2 @@
 # Payment-java
-Implement Payment System in Java
+Implement a security-enhanced, Java-based payment system with a unified and reliable architecture
